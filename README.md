@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/noahliechti" style="display: inline-block;">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ogbeche77&show_icons=true&count_private=true&theme=dark&hide_title=true" />
+</a>
+<br/>
+<a href="https://github.com/noahliechti">
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=ogbeche77&theme=dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" />
+</a>
